@@ -16,14 +16,14 @@
  */
 
 /********************************************************************
- * Real-Time-Person-Removal Created by Jason Mayes 2020.
+ * Real-Time-Person-Removal Created by Cedric Jefferson 2020.
  *
  * Get latest code on my Github:
- * https://github.com/jasonmayes/Real-Time-Person-Removal
+ * https://github.com/Cedric-Jefferson/Real-Time-Person_Removal
  *
  * Got questions? Reach out to me on social:
- * Twitter: @jason_mayes
- * LinkedIn: https://www.linkedin.com/in/creativetech
+ * Twitter: @Cedricjefferso5
+ * LinkedIn: https://www.linkedin.com/in/cedric-jefferson-nguimfack-7185ab160/
  ********************************************************************/
 
 const video = document.getElementById('webcam');
